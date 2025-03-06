@@ -95,7 +95,7 @@ nav a.active{
 
 @media(max-width:995px){
     nav{
-        text-align: center;
+        margin-top: 10px;
         position:absolute;
         top:0;
         left: 0;
@@ -103,9 +103,7 @@ nav a.active{
         padding: 1rem 9%;
         background-color: transparent;
         filter: drop-shadow(10px);
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+        padding: 1rem solid;
     }
     
 
