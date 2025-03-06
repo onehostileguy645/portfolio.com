@@ -102,8 +102,6 @@ nav a.active{
         width: 40%;
         padding: 1rem 9%;
         background-color: transparent;
-        filter: drop-shadow(10px);
-        padding: 1rem solid;
     }
     
 
