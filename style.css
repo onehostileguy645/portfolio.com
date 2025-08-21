@@ -176,6 +176,22 @@ span{
     transition: 0.2s linear;
 }
 
+
+.android-img{
+    border-radius: 1%;
+}
+
+.android-img img{
+    position: relative;
+    width: 32vw;
+    border-radius: 3%;
+    box-shadow: 0 0 25px solid #9fa5e0;
+    cursor:pointer;
+    transition: 0.2s linear;
+}
+
+
+
 .home-img img:hover{
     font-size: 1.8rem;
     font-weight: 500;
